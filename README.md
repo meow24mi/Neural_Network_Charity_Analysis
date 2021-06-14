@@ -14,6 +14,8 @@ The goal of this analysis is to help Alphabet Soup determine which organizations
 * There are two hidden layers, and 80 neurons in the first layer, 30 neurons in the second layer. It was trial and error that I ended up with 80 and 30 neurons. 
 * Relu activation function for both hidden layers and sigmoid activation function for the outer layer. Other activation functions did not yield as high of accuracy. 
 * The highest accuracy I was able to acheive was 72.7%
+
+![accuracy scores](Resources/accuracy.png)
 * I attempted to increase more neurons and increased hidden layers, tried different activation functions, and varied the number of epochs to increase the model's performance. 
 
 ## Summary
